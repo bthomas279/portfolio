@@ -9,7 +9,7 @@ export const siteConfig = {
     github: "https://github.com/bthomas279",
   },
   aboutMe:
-    "I'm an Information Science major focused on AI/ML and software development. I learn by building - turning ideas into tools others can use. I gravitate toward personal projects because they allow me to solve problems I care about while pushing me beyond my current knowledge level. Whether it's fine-tuning a transformer model, developing full stack applications, or architecting a browser extension from scratch, I approach every challenge with perseverance and resilience. I'm actively seeking internship opportunities and entry level positions where I can learn from experienced professionals and keep building things that matter.",
+    "I'm an Information Science major with a focusing in AI/ML and software development. I learn by building - turning ideas into tools others can use. I gravitate toward personal projects because they allow me to solve problems I care about while pushing me beyond my current knowledge level. Whether it's fine-tuning a transformer model, developing full stack applications, or architecting a browser extension from scratch, I approach every challenge with perseverance and resilience. I'm actively seeking internship opportunities and entry level positions where I can learn from experienced professionals and keep building things that matter.",
   skills: ["Python", "JavaScript/TypeScript", "SQL", "PyTorch", "Transformers", "Scikit-learn", "NumPy", "Tensorflow", "Trainer API", "Transformers.js", "Hugging Face", "FastAPI", "Claude", "Gemini API", "Node.js", "React.js", "MV3", "Vite"],
   projects: [
     {
