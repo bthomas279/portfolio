@@ -56,7 +56,7 @@ export const siteConfig = {
     },
     {
       company: "Merriweather Post Pavillion",
-      title: "Seasonal Event staff",
+      title: "Seasonal Event Staff",
       dateRange: "June 2023 - August 2024",
       bullets: [
         "Scanned tickets, checked bags, and screened patrons at venue points of entry.",
