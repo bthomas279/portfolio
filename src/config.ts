@@ -45,7 +45,7 @@ export const siteConfig = {
       ],
     },
     {
-      company: "Howard County Recreationn & Parks",
+      company: "Howard County Recreation & Parks",
       title: "Inclusion Companion",
       dateRange: "June 2024 - Aug 2025",
       bullets: [
