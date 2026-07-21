@@ -16,7 +16,7 @@ export const siteConfig = {
       name: "Investi-gator Extension (in development)",
       description:
         "An Edge/Chrome extension that helps users take back control of their social media experiences. Will passively detect if posts on social media platforms contain AI images/text, were posted by bots or is a likely scam when users scroll.",
-      link: "",
+      link: "https://bthomas279.github.io/investi-gator-doc/",
       skills: ["PyTorch", "TypeScript", "React.js", "Transformers", "Trainer API", "Scikit-learn", "Hugging Face", "Gemini API", "Pandas", "NumPy", "MV3", "Vite"],
     },
     {
